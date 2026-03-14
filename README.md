@@ -1,6 +1,6 @@
 # Task Management Application
 
-Live Demo: https://YOUR-NETLIFY-LINK.netlify.app
+Live Demo: [View the App](https://task-management-app-altugyamak.netlify.app)
 
 A simple task management web application built with **React** and **Bootstrap**.
 
