@@ -31,7 +31,7 @@ The goal of the project was to practice modern frontend development and implemen
 
 ## Screenshot
 
-![Application Screenshot](images/screenshot3.png)
+![Application Screenshot](images/Screenshot3.png)
 
 ---
 
