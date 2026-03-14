@@ -37,14 +37,16 @@ The goal of the project was to practice modern frontend development and implemen
 
 ## Project Structure
 
+```
 src
-├ Components
-│   ├ TaskForm.jsx
-│   └ TaskList.jsx
-├ Pages
-│   └ Home.jsx
-├ Interfaces
-│   └ task.js
+ ├ Components
+ │   ├ TaskForm.jsx
+ │   └ TaskList.jsx
+ ├ Pages
+ │   └ Home.jsx
+ └ Interfaces
+     └ task.js
+```
 
 ---
 
@@ -52,11 +54,14 @@ src
 
 To run the project locally:
 
+```
 npm install
 npm run dev
+```
 
 ---
 
 ## About
 
 This project was created as part of my **Software Development Internship at Software Persona** to gain hands-on experience with React and modern web development practices.
+
