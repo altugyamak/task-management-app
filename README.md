@@ -61,7 +61,4 @@ npm run dev
 
 ---
 
-## About
-
-This project was created as part of my **Software Development Internship at Software Persona** to gain hands-on experience with React and modern web development practices.
 
