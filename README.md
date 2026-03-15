@@ -61,4 +61,11 @@ npm run dev
 
 ---
 
+## Author
 
+Altug Yamak  
+BSc Computer Science - King's College London  
+
+- GitHub: https://github.com/altugyamak  
+- LinkedIn: https://linkedin.com/in/altugyamak
+- Email: altug.yamak@kcl.ac.uk
